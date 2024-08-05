@@ -1,5 +1,52 @@
 {
-    "user":[
-        
-    ]
+  "user": [
+    {  
+      "id":"1",
+      "status":"Chính thức",
+      "fullName": "John Smith 1",
+      "birthDay": "08/07/2015",
+      "probationDay": "XXXXXXX",
+      "probationYear": "2002",
+      "identifyNumber": "020203004911",
+      "identifyDay": "XXXXXXXXXXXX",
+      "certificate":"1",
+      "TimeOfLearning": "1 năm"
+    },
+    {  
+      "id":"2",
+      "status":"Chính thức",
+      "fullName": "John Smith 2",
+      "birthDay": "08/07/2015",
+      "probationDay": "XXXXXXX",
+      "probationYear": "user",
+      "identifyNumber": "020203004911",
+      "identifyDay": "XXXXXXXXXXXX",
+      "certificate":"1",
+      "TimeOfLearning": "1 năm"
+    },
+    {  
+      "id":"3",
+      "status":"Chính thức",
+      "fullName": "John Smith 3",
+      "birthDay": "XXXXXXXXXXXXXXXXXXX",
+      "probationDay": "XXXXXXX",
+      "probationYear": "user",
+      "identifyNumber": "020203004911",
+      "identifyDay": "XXXXXXXXXXXX",
+      "certificate":"1",
+      "TimeOfLearning": "1 năm"
+    },
+    {  
+      "id":"4",
+      "status":"Chính thức",
+      "fullName": "John Smith 4",
+      "birthDay": "XXXXXXXXXXXXXXXXXXX",
+      "probationDay": "XXXXXXX",
+      "probationYear": "user",
+      "identifyNumber": "020203004911",
+      "identifyDay": "XXXXXXXXXXXX",
+      "certificate":"1",
+      "TimeOfLearning": "1 năm"
+    }
+  ]
 }

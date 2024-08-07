@@ -1,13 +1,12 @@
 import { useEffect, useState, useRef } from "react";
 import {
-  EllipsisOutlined,
   PlusOutlined,
   ReloadOutlined,
   SearchOutlined,
 } from "@ant-design/icons";
-import { FilterDropdown, ProTable } from "@ant-design/pro-components";
-import { Button, Dropdown, Input, Modal, Tag, message } from "antd";
-import { Space, Table } from "antd";
+import { ProTable } from "@ant-design/pro-components";
+import { Button, Input, Modal, Tag, message } from "antd";
+import { Space } from "antd";
 import Highlighter from "react-highlight-words";
 import "./table.css";
 import ModalAdd from "../modal/Modal";
